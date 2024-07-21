@@ -1,0 +1,24 @@
+.social-link {
+    line-height: 30px;
+    margin-right: 25px;
+    cursor: pointer;
+
+    a {
+        color: #959ca7;
+        font-size: 13px;
+        font-weight: 600;
+        transition: all 500ms ease;
+
+        i {
+            position: relative;
+            display: inline-block;
+            padding-right: 5px;
+            font-weight: 400;
+        }
+
+    } 
+    &:hover {
+            color: var(--thm-primary);
+        }
+    
+}
