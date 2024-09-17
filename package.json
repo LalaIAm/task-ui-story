@@ -40,6 +40,6 @@
     "eslint-plugin-storybook": "^0.8.0",
     "prop-types": "^15.8.1",
     "storybook": "^8.2.5",
-    "vite": "^5.3.4"
+    "vite": "^5.4.6"
   }
 }
